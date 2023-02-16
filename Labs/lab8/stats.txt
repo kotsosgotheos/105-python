@@ -1,0 +1,14 @@
+Total value of transactions of properties at least 2000 sq.f.: 59558941
+
+Total number of transactions per property type:
+	Residential: 917
+	Condo: 54
+	Multi-Family: 13
+	Unkown: 1
+	
+Average size of sold properties per property type: 
+	Residential: 1338.63
+	Condo: 760.43
+	Multi-Family: 2046.92
+	Unkown: 0.00
+	
